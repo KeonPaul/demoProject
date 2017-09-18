@@ -6,7 +6,7 @@ export default class secondScreen extends React.Component {
         return(
             <View>
                 <Text> This is the second screen </Text>
-
+ 
             </View>
         );
     }
